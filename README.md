@@ -1,1 +1,1 @@
-This is a first website created by me, useing my own Figma tamplete. 
+This is a first simple website created by me, useing my own Figma tamplete. 
